@@ -38,6 +38,16 @@ This list does not contain blogs authored for companies that have gone under com
 
 ---
 
+## Hashnode
+
+| Date | Title |
+|------|-------|
+| 2022-01-20 | [Decoding Product-Led Growth for Developer Relations](https://pratimblogs.hashnode.dev/decoding-product-led-growth-for-developer-relations) |
+| 2021-12-29 | [Kickstart Your DevRel Journey: Part 2](https://pratimblogs.hashnode.dev/kickstart-your-devrel-journey-part-2) |
+| 2021-11-10 | [Kickstart Your DevRel Journey: Part 1](https://pratimblogs.hashnode.dev/kickstart-your-dev-rel-journey-part-1) |
+
+---
+
 ## LeadDev
 
 | Date | Title |
